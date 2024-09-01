@@ -22,7 +22,7 @@ export default function Navigation() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            JUMP
+            KEEP JUMP
           </Typography>
           <Button color="inherit">Login</Button>
         </Toolbar>
