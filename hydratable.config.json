@@ -1,0 +1,17 @@
+{
+    "webroot": "./dist",
+    "host": "http://localhost",
+    "port": 3030,
+    "crawlingUrls": [
+      "/", 
+      "/src",
+      "/src/assets",
+      "/src/components",
+      "/src/pages/Authentication",
+      "/src/pages/layouts/MainLayout",
+      "/src/pages/Navigation"
+    ],
+    "delay": 1500,
+    "userAgent": "react-hydratable",
+    "htmlPrefix": "<!DOCTYPE html>"
+  }
